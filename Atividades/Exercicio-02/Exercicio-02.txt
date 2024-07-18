@@ -1,0 +1,9 @@
+Exercício 2
+
+- Elabore um diagrama de Casos de Uso para o sistema de um caixa eletrônico de um Banco. Pense em todas as funcionalidades externamente observáveis desse sistema e quem ou o que será fonte e destino de informações para o sistema.
+
+- Especifique textualmente o Caso de Uso realizar Deposito. Siga o modelo apresentado em sala de aula nos slides de Modelo de Caso de Uso.
+
+- Crie um diagrama de Classes para o caso de uso especificado utilizando a categorização BCE.
+
+- Entrega pelo MOODLE até o dia 25/03/2024. No formato PDF!

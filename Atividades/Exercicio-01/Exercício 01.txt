@@ -1,0 +1,11 @@
+Exercício 1
+
+- Crie um Diagrama de Casos de Uso para um sistema que controla a biblioteca da UFC Quixadá
+
+- Especifique Regras de Negócio
+
+- Especifique Atores
+
+- Especifique o Caso de Uso Realizar Empréstimo de acordo com o template de Caso de Uso descrito em aula
+
+- Entregar pelo Moodle até o dia 11/03/2024.
